@@ -11,7 +11,3 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
-rootProject.name = "reproducer-project"
-includeBuild("./plugins")
-include(":app")
